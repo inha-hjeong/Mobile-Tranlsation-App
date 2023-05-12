@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.translator.translator_project.app-mergeDebugResources-38:/values-fr-rCA/values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "/Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "197,299,475,601,706,873,1002,1119,1228,1419,1527,1708,1840,1996,2171,2240,2300",
+                        "endColumns": "101,175,125,104,166,128,116,108,190,107,180,131,155,174,68,59,79",
+                        "endOffsets": "298,474,600,705,872,1001,1118,1227,1418,1526,1707,1839,1995,2170,2239,2299,2379"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "292,398,578,708,817,988,1121,1242,1516,1711,1823,2008,2144,2304,2483,2556,2620",
+                        "endColumns": "105,179,129,108,170,132,120,112,194,111,184,135,159,178,72,63,83",
+                        "endOffsets": "393,573,703,812,983,1116,1237,1350,1706,1818,2003,2139,2299,2478,2551,2615,2699"
+                    }
+                },
+                {
+                    "source": "/Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "156",
+                        "endOffsets": "355"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "1355",
+                        "endColumns": "160",
+                        "endOffsets": "1511"
+                    }
+                },
+                {
+                    "source": "/Users/crypton/.gradle/caches/transforms-3/ed9cf1983c1bf0c7ff30f1201350ea78/transformed/ui-1.1.1/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,204,292,390,496,583,663,757,849,936,1007,1075,1151,1220",
+                        "endColumns": "98,87,97,105,86,79,93,91,86,70,67,75,68,121",
+                        "endOffsets": "199,287,385,491,578,658,752,844,931,1002,1070,1146,1215,1337"
+                    },
+                    "to": {
+                        "startLines": "2,3,22,23,24,25,26,27,28,29,30,31,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,204,2704,2802,2908,2995,3075,3169,3261,3348,3419,3487,3664,3733",
+                        "endColumns": "98,87,97,105,86,79,93,91,86,70,67,75,68,121",
+                        "endOffsets": "199,287,2797,2903,2990,3070,3164,3256,3343,3414,3482,3558,3728,3850"
+                    }
+                },
+                {
+                    "source": "/Users/crypton/.gradle/caches/transforms-3/d409417959c78fbf29d76ceae9660126/transformed/core-1.7.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "32",
+                        "startColumns": "4",
+                        "startOffsets": "3563",
+                        "endColumns": "100",
+                        "endOffsets": "3659"
+                    }
+                }
+            ]
+        }
+    ]
+}

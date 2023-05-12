@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.translator.translator_project.app-mergeDebugResources-38:/values-uk/values-uk.xml",
+            "map": [
+                {
+                    "source": "/Users/crypton/.gradle/caches/transforms-3/ed9cf1983c1bf0c7ff30f1201350ea78/transformed/ui-1.1.1/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,198,282,384,485,569,651,759,847,929,999,1070,1142,1212",
+                        "endColumns": "92,83,101,100,83,81,107,87,81,69,70,71,69,122",
+                        "endOffsets": "193,277,379,480,564,646,754,842,924,994,1065,1137,1207,1330"
+                    },
+                    "to": {
+                        "startLines": "2,3,22,23,24,25,26,27,28,29,30,31,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,198,2508,2610,2711,2795,2877,2985,3073,3155,3225,3296,3469,3539",
+                        "endColumns": "92,83,101,100,83,81,107,87,81,69,70,71,69,122",
+                        "endOffsets": "193,277,2605,2706,2790,2872,2980,3068,3150,3220,3291,3363,3534,3657"
+                    }
+                },
+                {
+                    "source": "/Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/res/values-uk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "141",
+                        "endOffsets": "336"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "1293",
+                        "endColumns": "145",
+                        "endOffsets": "1434"
+                    }
+                },
+                {
+                    "source": "/Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/res/values-uk/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,297,456,579,685,835,960,1071,1172,1336,1438,1596,1717,1860,1998,2064,2121",
+                        "endColumns": "103,158,122,105,149,124,110,100,163,101,157,120,142,137,65,56,83",
+                        "endOffsets": "296,455,578,684,834,959,1070,1171,1335,1437,1595,1716,1859,1997,2063,2120,2204"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,390,553,680,790,944,1073,1188,1439,1607,1713,1875,2000,2147,2289,2359,2420",
+                        "endColumns": "107,162,126,109,153,128,114,104,167,105,161,124,146,141,69,60,87",
+                        "endOffsets": "385,548,675,785,939,1068,1183,1288,1602,1708,1870,1995,2142,2284,2354,2415,2503"
+                    }
+                },
+                {
+                    "source": "/Users/crypton/.gradle/caches/transforms-3/d409417959c78fbf29d76ceae9660126/transformed/core-1.7.0/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "32",
+                        "startColumns": "4",
+                        "startOffsets": "3368",
+                        "endColumns": "100",
+                        "endOffsets": "3464"
+                    }
+                }
+            ]
+        }
+    ]
+}

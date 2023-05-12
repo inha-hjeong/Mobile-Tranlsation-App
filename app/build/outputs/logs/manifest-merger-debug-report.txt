@@ -1,0 +1,446 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /Users/crypton/.gradle/caches/transforms-3/45f5954003b89b610b23aa1f97e264d9/transformed/ui-tooling-1.1.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.compose.material:material:1.1.1] /Users/crypton/.gradle/caches/transforms-3/3bd7103f95841bbea85d2184e4bb6e8d/transformed/material-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1] /Users/crypton/.gradle/caches/transforms-3/0cda45b8b06b84259779d6c674cd867b/transformed/lifecycle-viewmodel-compose-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/crypton/.gradle/caches/transforms-3/f872cd33af871d68133cd6ca5f85239b/transformed/activity-compose-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] /Users/crypton/.gradle/caches/transforms-3/1965b8447cbcba0f398ded9d9cb63a11/transformed/ui-tooling-data-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /Users/crypton/.gradle/caches/transforms-3/bde45d15ddc85e5ae457e2ffa2a6001a/transformed/material-ripple-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/crypton/.gradle/caches/transforms-3/dc7e06a358835d879f15917a51d3b3be/transformed/foundation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/crypton/.gradle/caches/transforms-3/6e8f6484799cf55d98788b49bb5649ae/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /Users/crypton/.gradle/caches/transforms-3/8f4658db2ce21dce4bba1f2b3b5dcf9e/transformed/material-icons-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/crypton/.gradle/caches/transforms-3/224e3667d1b1c4440427afbabe9e0428/transformed/foundation-layout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/crypton/.gradle/caches/transforms-3/2babb0976c69963071bced29e8a7eaca/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.1.1] /Users/crypton/.gradle/caches/transforms-3/ed9cf1983c1bf0c7ff30f1201350ea78/transformed/ui-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/crypton/.gradle/caches/transforms-3/4e19524934ec8d3b48c5e9a69389b522/transformed/activity-ktx-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/crypton/.gradle/caches/transforms-3/2b8f7556be678481cc3ad1870bf32452/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] /Users/crypton/.gradle/caches/transforms-3/11b0f863e7bf24247fc0f847385cabf7/transformed/ui-tooling-preview-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /Users/crypton/.gradle/caches/transforms-3/6b4700180f4206bc4acef435b8cf452b/transformed/ui-text-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /Users/crypton/.gradle/caches/transforms-3/570b4dd88db0da68faef87900c8e0757/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /Users/crypton/.gradle/caches/transforms-3/7453ac7f419e47fe6e24b64abcd6245e/transformed/ui-graphics-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /Users/crypton/.gradle/caches/transforms-3/d96b1cefe033b37756438963f8d68210/transformed/ui-unit-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /Users/crypton/.gradle/caches/transforms-3/04acdba3addc19d4b4f9724f22281f1e/transformed/ui-geometry-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /Users/crypton/.gradle/caches/transforms-3/f07c43396a9a5465a798387fedd1374d/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/crypton/.gradle/caches/transforms-3/19908799b73b6ddf2be333cb1b2b9466/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /Users/crypton/.gradle/caches/transforms-3/87ce9a8e421feb697fc2db8455da25cf/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/crypton/.gradle/caches/transforms-3/906a10f6802c007a4f28cf07c0c7f539/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /Users/crypton/.gradle/caches/transforms-3/5fb59e9ae9ddf08ee71ecba627c04dd5/transformed/ui-util-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/crypton/.gradle/caches/transforms-3/0cf718760ea63cb74734d0cf72414e04/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/crypton/.gradle/caches/transforms-3/c51f75e1ec8ef8c67d6e94766ca5b93a/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/crypton/.gradle/caches/transforms-3/ad2a5d023621ca46fc2035a87ab61112/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/crypton/.gradle/caches/transforms-3/098b8caa171ba588bcf6166cefc315ad/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.3.1] /Users/crypton/.gradle/caches/transforms-3/c865514a8309243e329e5f65db714eff/transformed/activity-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/crypton/.gradle/caches/transforms-3/1332cfc0a06fbbb31d97eafc7e815ee1/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/crypton/.gradle/caches/transforms-3/7c2a69963f268b347cc286e5cbaa794a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/crypton/.gradle/caches/transforms-3/62fe94634af4c7176027a843a248a0b7/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/crypton/.gradle/caches/transforms-3/5f6bce248354caebdb0537d0d522a083/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/4ab025d3928b68f758a64f199f918d25/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/bbe842140b0a02ee44fbb7cda433aff4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/cf2ef0b7e0a7c2f7d84821efc168950d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/crypton/.gradle/caches/transforms-3/e2f5c3080c44cb29cc0dec64678f8048/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/57e5e26ad3745b98eeb78643e3d989b4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/crypton/.gradle/caches/transforms-3/8542c3cb8fe7f6d300e3b74122e0e39f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/crypton/.gradle/caches/transforms-3/d409417959c78fbf29d76ceae9660126/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/crypton/.gradle/caches/transforms-3/c5c15dcfb7e61189a83cfb22dff8ce76/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/crypton/.gradle/caches/transforms-3/f626d5b837f0a6b815118a9e28200c6f/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/crypton/.gradle/caches/transforms-3/762cc038ea7e6ff959c5d419acded8b5/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/crypton/.gradle/caches/transforms-3/7804f2d7c6198a0dba55f7bc64431b93/transformed/transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/crypton/.gradle/caches/transforms-3/f4c1d1bf114bb0276739bf819347f24b/transformed/firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/crypton/.gradle/caches/transforms-3/aaa9293e2e62413022af26f4187ba254/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/crypton/.gradle/caches/transforms-3/94d5455906c8df34755a223e04bb7343/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/crypton/.gradle/caches/transforms-3/b8c1dd994e234fe0d4cb0976aa6621cc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/crypton/.gradle/caches/transforms-3/01861c60b10afa4f2febfe01aff0ec46/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/crypton/.gradle/caches/transforms-3/12b9d4b588d77d898482744eb14f6279/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/crypton/.gradle/caches/transforms-3/38858dedb5c4483b6af1a1eea17bce95/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/crypton/.gradle/caches/transforms-3/a63ae1a3fde1ca2cdc0f12823bde43ce/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/crypton/.gradle/caches/transforms-3/a2ea85986010c54934b9746c72042a92/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/crypton/.gradle/caches/transforms-3/0423c5e6d4ab6860aa8181d77b78be44/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/crypton/.gradle/caches/transforms-3/647c1e081ff4bc82028f4a31ac59770a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/crypton/.gradle/caches/transforms-3/6917b917f46acc225f80c644a8b10e80/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/crypton/.gradle/caches/transforms-3/62e158e431b90e31f1313fb92114e5fb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/crypton/.gradle/caches/transforms-3/9eac3243e07281a6c670785baad86a60/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/crypton/.gradle/caches/transforms-3/d8aa656daa174b0958e1c0b998436d42/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:4:5-48
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /Users/crypton/.gradle/caches/transforms-3/45f5954003b89b610b23aa1f97e264d9/transformed/ui-tooling-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /Users/crypton/.gradle/caches/transforms-3/45f5954003b89b610b23aa1f97e264d9/transformed/ui-tooling-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /Users/crypton/.gradle/caches/transforms-3/87ce9a8e421feb697fc2db8455da25cf/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /Users/crypton/.gradle/caches/transforms-3/87ce9a8e421feb697fc2db8455da25cf/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/crypton/.gradle/caches/transforms-3/ad2a5d023621ca46fc2035a87ab61112/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/crypton/.gradle/caches/transforms-3/ad2a5d023621ca46fc2035a87ab61112/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.7.0] /Users/crypton/.gradle/caches/transforms-3/d409417959c78fbf29d76ceae9660126/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/crypton/.gradle/caches/transforms-3/d409417959c78fbf29d76ceae9660126/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:25:5-46:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/crypton/.gradle/caches/transforms-3/94d5455906c8df34755a223e04bb7343/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/crypton/.gradle/caches/transforms-3/94d5455906c8df34755a223e04bb7343/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/crypton/.gradle/caches/transforms-3/b8c1dd994e234fe0d4cb0976aa6621cc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/crypton/.gradle/caches/transforms-3/b8c1dd994e234fe0d4cb0976aa6621cc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/crypton/.gradle/caches/transforms-3/d409417959c78fbf29d76ceae9660126/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:15:9-29
+	android:icon
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:14:9-48
+	android:dataExtractionRules
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:8:9-65
+activity#com.translator.translator_project.MainActivity
+ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:19:13-45
+	android:exported
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:18:13-36
+	android:theme
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /Users/crypton/.gradle/caches/transforms-3/45f5954003b89b610b23aa1f97e264d9/transformed/ui-tooling-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling:1.1.1] /Users/crypton/.gradle/caches/transforms-3/45f5954003b89b610b23aa1f97e264d9/transformed/ui-tooling-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] /Users/crypton/.gradle/caches/transforms-3/3bd7103f95841bbea85d2184e4bb6e8d/transformed/material-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.1.1] /Users/crypton/.gradle/caches/transforms-3/3bd7103f95841bbea85d2184e4bb6e8d/transformed/material-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1] /Users/crypton/.gradle/caches/transforms-3/0cda45b8b06b84259779d6c674cd867b/transformed/lifecycle-viewmodel-compose-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.1] /Users/crypton/.gradle/caches/transforms-3/0cda45b8b06b84259779d6c674cd867b/transformed/lifecycle-viewmodel-compose-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/crypton/.gradle/caches/transforms-3/f872cd33af871d68133cd6ca5f85239b/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.3.1] /Users/crypton/.gradle/caches/transforms-3/f872cd33af871d68133cd6ca5f85239b/transformed/activity-compose-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] /Users/crypton/.gradle/caches/transforms-3/1965b8447cbcba0f398ded9d9cb63a11/transformed/ui-tooling-data-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.1.1] /Users/crypton/.gradle/caches/transforms-3/1965b8447cbcba0f398ded9d9cb63a11/transformed/ui-tooling-data-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /Users/crypton/.gradle/caches/transforms-3/bde45d15ddc85e5ae457e2ffa2a6001a/transformed/material-ripple-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.1.1] /Users/crypton/.gradle/caches/transforms-3/bde45d15ddc85e5ae457e2ffa2a6001a/transformed/material-ripple-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/crypton/.gradle/caches/transforms-3/dc7e06a358835d879f15917a51d3b3be/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.1.1] /Users/crypton/.gradle/caches/transforms-3/dc7e06a358835d879f15917a51d3b3be/transformed/foundation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/crypton/.gradle/caches/transforms-3/6e8f6484799cf55d98788b49bb5649ae/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/crypton/.gradle/caches/transforms-3/6e8f6484799cf55d98788b49bb5649ae/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /Users/crypton/.gradle/caches/transforms-3/8f4658db2ce21dce4bba1f2b3b5dcf9e/transformed/material-icons-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.1.1] /Users/crypton/.gradle/caches/transforms-3/8f4658db2ce21dce4bba1f2b3b5dcf9e/transformed/material-icons-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/crypton/.gradle/caches/transforms-3/224e3667d1b1c4440427afbabe9e0428/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.1.1] /Users/crypton/.gradle/caches/transforms-3/224e3667d1b1c4440427afbabe9e0428/transformed/foundation-layout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/crypton/.gradle/caches/transforms-3/2babb0976c69963071bced29e8a7eaca/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/crypton/.gradle/caches/transforms-3/2babb0976c69963071bced29e8a7eaca/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] /Users/crypton/.gradle/caches/transforms-3/ed9cf1983c1bf0c7ff30f1201350ea78/transformed/ui-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.1.1] /Users/crypton/.gradle/caches/transforms-3/ed9cf1983c1bf0c7ff30f1201350ea78/transformed/ui-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/crypton/.gradle/caches/transforms-3/4e19524934ec8d3b48c5e9a69389b522/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /Users/crypton/.gradle/caches/transforms-3/4e19524934ec8d3b48c5e9a69389b522/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/crypton/.gradle/caches/transforms-3/2b8f7556be678481cc3ad1870bf32452/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/crypton/.gradle/caches/transforms-3/2b8f7556be678481cc3ad1870bf32452/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] /Users/crypton/.gradle/caches/transforms-3/11b0f863e7bf24247fc0f847385cabf7/transformed/ui-tooling-preview-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.1.1] /Users/crypton/.gradle/caches/transforms-3/11b0f863e7bf24247fc0f847385cabf7/transformed/ui-tooling-preview-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /Users/crypton/.gradle/caches/transforms-3/6b4700180f4206bc4acef435b8cf452b/transformed/ui-text-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.1.1] /Users/crypton/.gradle/caches/transforms-3/6b4700180f4206bc4acef435b8cf452b/transformed/ui-text-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /Users/crypton/.gradle/caches/transforms-3/570b4dd88db0da68faef87900c8e0757/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /Users/crypton/.gradle/caches/transforms-3/570b4dd88db0da68faef87900c8e0757/transformed/runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /Users/crypton/.gradle/caches/transforms-3/7453ac7f419e47fe6e24b64abcd6245e/transformed/ui-graphics-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.1.1] /Users/crypton/.gradle/caches/transforms-3/7453ac7f419e47fe6e24b64abcd6245e/transformed/ui-graphics-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /Users/crypton/.gradle/caches/transforms-3/d96b1cefe033b37756438963f8d68210/transformed/ui-unit-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.1.1] /Users/crypton/.gradle/caches/transforms-3/d96b1cefe033b37756438963f8d68210/transformed/ui-unit-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /Users/crypton/.gradle/caches/transforms-3/04acdba3addc19d4b4f9724f22281f1e/transformed/ui-geometry-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.1.1] /Users/crypton/.gradle/caches/transforms-3/04acdba3addc19d4b4f9724f22281f1e/transformed/ui-geometry-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /Users/crypton/.gradle/caches/transforms-3/f07c43396a9a5465a798387fedd1374d/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.1.1] /Users/crypton/.gradle/caches/transforms-3/f07c43396a9a5465a798387fedd1374d/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/crypton/.gradle/caches/transforms-3/19908799b73b6ddf2be333cb1b2b9466/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/crypton/.gradle/caches/transforms-3/19908799b73b6ddf2be333cb1b2b9466/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /Users/crypton/.gradle/caches/transforms-3/87ce9a8e421feb697fc2db8455da25cf/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-test-manifest:1.1.1] /Users/crypton/.gradle/caches/transforms-3/87ce9a8e421feb697fc2db8455da25cf/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/crypton/.gradle/caches/transforms-3/906a10f6802c007a4f28cf07c0c7f539/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/crypton/.gradle/caches/transforms-3/906a10f6802c007a4f28cf07c0c7f539/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /Users/crypton/.gradle/caches/transforms-3/5fb59e9ae9ddf08ee71ecba627c04dd5/transformed/ui-util-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.1.1] /Users/crypton/.gradle/caches/transforms-3/5fb59e9ae9ddf08ee71ecba627c04dd5/transformed/ui-util-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/crypton/.gradle/caches/transforms-3/0cf718760ea63cb74734d0cf72414e04/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/crypton/.gradle/caches/transforms-3/0cf718760ea63cb74734d0cf72414e04/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/crypton/.gradle/caches/transforms-3/c51f75e1ec8ef8c67d6e94766ca5b93a/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/crypton/.gradle/caches/transforms-3/c51f75e1ec8ef8c67d6e94766ca5b93a/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/crypton/.gradle/caches/transforms-3/ad2a5d023621ca46fc2035a87ab61112/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/crypton/.gradle/caches/transforms-3/ad2a5d023621ca46fc2035a87ab61112/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/crypton/.gradle/caches/transforms-3/098b8caa171ba588bcf6166cefc315ad/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/crypton/.gradle/caches/transforms-3/098b8caa171ba588bcf6166cefc315ad/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.3.1] /Users/crypton/.gradle/caches/transforms-3/c865514a8309243e329e5f65db714eff/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] /Users/crypton/.gradle/caches/transforms-3/c865514a8309243e329e5f65db714eff/transformed/activity-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/crypton/.gradle/caches/transforms-3/1332cfc0a06fbbb31d97eafc7e815ee1/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/crypton/.gradle/caches/transforms-3/1332cfc0a06fbbb31d97eafc7e815ee1/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/crypton/.gradle/caches/transforms-3/7c2a69963f268b347cc286e5cbaa794a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/crypton/.gradle/caches/transforms-3/7c2a69963f268b347cc286e5cbaa794a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/crypton/.gradle/caches/transforms-3/62fe94634af4c7176027a843a248a0b7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/crypton/.gradle/caches/transforms-3/62fe94634af4c7176027a843a248a0b7/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/crypton/.gradle/caches/transforms-3/5f6bce248354caebdb0537d0d522a083/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/crypton/.gradle/caches/transforms-3/5f6bce248354caebdb0537d0d522a083/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/4ab025d3928b68f758a64f199f918d25/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/4ab025d3928b68f758a64f199f918d25/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/bbe842140b0a02ee44fbb7cda433aff4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/bbe842140b0a02ee44fbb7cda433aff4/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/cf2ef0b7e0a7c2f7d84821efc168950d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/cf2ef0b7e0a7c2f7d84821efc168950d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/crypton/.gradle/caches/transforms-3/e2f5c3080c44cb29cc0dec64678f8048/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/crypton/.gradle/caches/transforms-3/e2f5c3080c44cb29cc0dec64678f8048/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/57e5e26ad3745b98eeb78643e3d989b4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/crypton/.gradle/caches/transforms-3/57e5e26ad3745b98eeb78643e3d989b4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/crypton/.gradle/caches/transforms-3/8542c3cb8fe7f6d300e3b74122e0e39f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/crypton/.gradle/caches/transforms-3/8542c3cb8fe7f6d300e3b74122e0e39f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/crypton/.gradle/caches/transforms-3/d409417959c78fbf29d76ceae9660126/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/crypton/.gradle/caches/transforms-3/d409417959c78fbf29d76ceae9660126/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/crypton/.gradle/caches/transforms-3/c5c15dcfb7e61189a83cfb22dff8ce76/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/crypton/.gradle/caches/transforms-3/c5c15dcfb7e61189a83cfb22dff8ce76/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/crypton/.gradle/caches/transforms-3/f626d5b837f0a6b815118a9e28200c6f/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/crypton/.gradle/caches/transforms-3/f626d5b837f0a6b815118a9e28200c6f/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/crypton/.gradle/caches/transforms-3/762cc038ea7e6ff959c5d419acded8b5/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/crypton/.gradle/caches/transforms-3/762cc038ea7e6ff959c5d419acded8b5/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/crypton/.gradle/caches/transforms-3/7804f2d7c6198a0dba55f7bc64431b93/transformed/transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/crypton/.gradle/caches/transforms-3/7804f2d7c6198a0dba55f7bc64431b93/transformed/transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/crypton/.gradle/caches/transforms-3/f4c1d1bf114bb0276739bf819347f24b/transformed/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/crypton/.gradle/caches/transforms-3/f4c1d1bf114bb0276739bf819347f24b/transformed/firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/crypton/.gradle/caches/transforms-3/aaa9293e2e62413022af26f4187ba254/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/crypton/.gradle/caches/transforms-3/aaa9293e2e62413022af26f4187ba254/transformed/firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/crypton/.gradle/caches/transforms-3/94d5455906c8df34755a223e04bb7343/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/crypton/.gradle/caches/transforms-3/94d5455906c8df34755a223e04bb7343/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/crypton/.gradle/caches/transforms-3/b8c1dd994e234fe0d4cb0976aa6621cc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/crypton/.gradle/caches/transforms-3/b8c1dd994e234fe0d4cb0976aa6621cc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/crypton/.gradle/caches/transforms-3/01861c60b10afa4f2febfe01aff0ec46/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/crypton/.gradle/caches/transforms-3/01861c60b10afa4f2febfe01aff0ec46/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/crypton/.gradle/caches/transforms-3/12b9d4b588d77d898482744eb14f6279/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/crypton/.gradle/caches/transforms-3/12b9d4b588d77d898482744eb14f6279/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/crypton/.gradle/caches/transforms-3/38858dedb5c4483b6af1a1eea17bce95/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/crypton/.gradle/caches/transforms-3/38858dedb5c4483b6af1a1eea17bce95/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/crypton/.gradle/caches/transforms-3/a63ae1a3fde1ca2cdc0f12823bde43ce/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/crypton/.gradle/caches/transforms-3/a63ae1a3fde1ca2cdc0f12823bde43ce/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/crypton/.gradle/caches/transforms-3/a2ea85986010c54934b9746c72042a92/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/crypton/.gradle/caches/transforms-3/a2ea85986010c54934b9746c72042a92/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/crypton/.gradle/caches/transforms-3/0423c5e6d4ab6860aa8181d77b78be44/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/crypton/.gradle/caches/transforms-3/0423c5e6d4ab6860aa8181d77b78be44/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/crypton/.gradle/caches/transforms-3/647c1e081ff4bc82028f4a31ac59770a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/crypton/.gradle/caches/transforms-3/647c1e081ff4bc82028f4a31ac59770a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/crypton/.gradle/caches/transforms-3/6917b917f46acc225f80c644a8b10e80/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/crypton/.gradle/caches/transforms-3/6917b917f46acc225f80c644a8b10e80/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/crypton/.gradle/caches/transforms-3/62e158e431b90e31f1313fb92114e5fb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/crypton/.gradle/caches/transforms-3/62e158e431b90e31f1313fb92114e5fb/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/crypton/.gradle/caches/transforms-3/9eac3243e07281a6c670785baad86a60/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/crypton/.gradle/caches/transforms-3/9eac3243e07281a6c670785baad86a60/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/crypton/.gradle/caches/transforms-3/d8aa656daa174b0958e1c0b998436d42/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/crypton/.gradle/caches/transforms-3/d8aa656daa174b0958e1c0b998436d42/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/crypton/Inha/Translator/app/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.1.1] /Users/crypton/.gradle/caches/transforms-3/45f5954003b89b610b23aa1f97e264d9/transformed/ui-tooling-1.1.1/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] /Users/crypton/.gradle/caches/transforms-3/45f5954003b89b610b23aa1f97e264d9/transformed/ui-tooling-1.1.1/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.1.1] /Users/crypton/.gradle/caches/transforms-3/45f5954003b89b610b23aa1f97e264d9/transformed/ui-tooling-1.1.1/AndroidManifest.xml:26:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.1.1] /Users/crypton/.gradle/caches/transforms-3/87ce9a8e421feb697fc2db8455da25cf/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.1.1] /Users/crypton/.gradle/caches/transforms-3/87ce9a8e421feb697fc2db8455da25cf/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.1.1] /Users/crypton/.gradle/caches/transforms-3/87ce9a8e421feb697fc2db8455da25cf/transformed/ui-test-manifest-1.1.1/AndroidManifest.xml:26:13-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:8:22-64
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:13:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:12:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.nl.translate.NaturalLanguageTranslateRegistrar
+ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.mlkit:translate:17.0.0] /Users/crypton/.gradle/caches/transforms-3/91b29ca146be887f5ba1a49f4837afeb/transformed/translate-17.0.0/AndroidManifest.xml:15:17-126
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.0.0] /Users/crypton/.gradle/caches/transforms-3/5dc653072114b3e25c1e93c4a8536dc4/transformed/common-18.0.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/crypton/.gradle/caches/transforms-3/3e99510413bfb39065b90c0f064e16d6/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/crypton/.gradle/caches/transforms-3/d9efa8f5ddbdcadf62ce6aebca8f8427/transformed/play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/crypton/.gradle/caches/transforms-3/b8c1dd994e234fe0d4cb0976aa6621cc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/crypton/.gradle/caches/transforms-3/b8c1dd994e234fe0d4cb0976aa6621cc/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.1.0] /Users/crypton/.gradle/caches/transforms-3/ba742d3945c26f463fe08e3f87746866/transformed/profileinstaller-1.1.0/AndroidManifest.xml:43:25-88
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/crypton/.gradle/caches/transforms-3/90970e94336f3cd927602e9b04583b89/transformed/transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/crypton/.gradle/caches/transforms-3/bbe27cc47a75d1ef68e31d4b6805bade/transformed/transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
